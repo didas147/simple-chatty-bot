@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Topics/Integer types and operations/Reversing input numbers/out/
+/Topics/Integer types and operations/Reversing input numbers/out/production/classes/
